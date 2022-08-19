@@ -1,2 +1,2 @@
 # Deliveroo-Clone-
-React Native clone of Deliveroo
+React Native clone of Deliveroo (In Progress)
